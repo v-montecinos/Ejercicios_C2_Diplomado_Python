@@ -1,0 +1,9 @@
+{
+    "tema": "oscuro",
+    "idioma": "es",
+    "notificaciones": true,
+    "usuarios_online": [
+        "user1",
+        "user2"
+    ]
+}

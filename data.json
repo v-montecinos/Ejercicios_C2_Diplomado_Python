@@ -1,0 +1,24 @@
+{
+    "mydata": {
+	"color": "red",
+	"amount": 3,
+	"arrayTest": [
+	    "north",
+	    "south",
+	    "east",
+	    "escaped \"test\" string",
+	    "west"
+	],
+	"boolTest": true,
+	"nullTest": null,
+	"addressBookEntry": {
+	    "givenName": "Richard",
+	    "familyName": "Mutt",
+	    "address": {
+		"street": "1 Main St",
+		"city": "Springfield",
+		"zip": "10045"
+	    }
+	}
+    }
+}
